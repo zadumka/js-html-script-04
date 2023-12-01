@@ -1,1 +1,1 @@
-# js-html-script-04
+# goit-js-hw-04
